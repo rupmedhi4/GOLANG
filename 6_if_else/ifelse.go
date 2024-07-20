@@ -30,12 +30,12 @@ func main() {
 	// 	fmt.Println("user is an admin")
 	// }
 
-// we can declare a veriable inside if construct
-	// if age :=15; age >=18{
-	// 	fmt.Println("person is an adult")
-	// }else if age >= 12{
-	// 	fmt.Println("person is a teenager")
-	// }
+//we can declare a veriable inside if construct
+	if age :=15; age >=18{
+		fmt.Println("person is an adult")
+	}else if age >= 12{
+		fmt.Println("person is a teenager")
+	}
 
 
 
